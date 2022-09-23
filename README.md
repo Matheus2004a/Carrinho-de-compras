@@ -6,4 +6,13 @@ Projeto desenvolvido durante o curso técnico na matéria de programação mobil
 - Animações spinners;
 - Adição de produtos ao carrinho;
 - Alteração apenas da quantidades de produtos quando adicionado um mesmo produto no carrinho.
+- Não adição de produtos com estoque vazio no carrinho;
 - Detalhes da compra;
+
+## Screenshots
+
+![image](./assets/img/screenshot-login.png)
+
+![image](./assets/img/screenshot-produtos.png)
+
+![image](./assets/img/screenshot-carrinho.png)
